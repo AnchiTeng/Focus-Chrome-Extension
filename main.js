@@ -16,4 +16,4 @@ contentParent.appendChild(image);
 document.querySelector('div').onclick = function() {
     alert('A div was clicked!')
 };
-//object.onclick = function(){myScript}; 
+
